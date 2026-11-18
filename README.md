@@ -1,2 +1,5 @@
-# -DI2_Wrapper-
-The DI² Wrapper (Tier-15) is a deterministic execution layer that sits between the operator and any large language model. Its purpose is simple:  Make all AI outputs deterministic, stable, safe, and auditable — regardless of the underlying model.
+# DI² Wrapper
+
+The Tier-15 DI² Wrapper is Grounded DI's proposed control layer between an operator and a language model. It defines a path for rules, validation, and audit records to govern model outputs across different model providers.
+
+This repository currently contains the project description. See [Grounded DI's public records](https://github.com/Grounded-DI) for related demonstrations and evidence.
